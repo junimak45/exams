@@ -1,0 +1,11 @@
+Name,Class,gender,race/ethnicity,parental level of education,lunch,test,science score,math score,reading score,writing score
+Anu,9th,female,group E,bachelor's degree,standard,incompleted,80,85,71,75
+Arun,10th,male,group A,master's degree,standard,completed,74,66,73,83
+Chandu,8th,male,group B,high school,standard,incompleted,70,73,72,62
+Diya,10th,female,group C,bachelor's degree,standard,completed,60,62,64,73
+riya,10th,male,group C,high school,free/reduced,completed,50,53,49,45
+Isha,10th,female,group A,bachelor's degree,standard,completed,71,69,79,74
+Nisha,10th,female,group E,associate's degree,standard,completed,89,99,99,96
+Nishan,9th,male,group D,high school,standard,incompleted,56,47,55,57
+Piya,9th,female,group A,bachelor's degree,free/reduced,incompleted,50,55,52,54
+Riyan,8th,male,group A,some high school,standard,incompleted,73,65,71,71
